@@ -3,7 +3,7 @@
   <h3 align = "center">Sou um desenvolvedor Back-end Jr.
  <br>
     <br>
-  <p align = "center">Este é meu histórico e logo abaixo todas as tecnologias que ultilizo!</h2>
+  <p align = "center">Este é meu histórico e logo abaixo todas as linguagens que ultilizo!</h2>
 </div>
 
 
@@ -14,7 +14,7 @@
    </a>
  </div>
 
- <h3 align = "center">Tecnologias Utilizadas
+ <h3 align = "center">Linguagens Utilizadas
 <div style = "display: inline_block"><br>
     <img align = "center" alt = "Go" height = "40" margin = "50px" width = 40 src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align = "center" alt = "Python" height = "40" margin = "50px" width = 40 src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
