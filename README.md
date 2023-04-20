@@ -19,9 +19,15 @@
     <img align = "center" alt = "Php" height = "40" margin = "50px" width = 40 src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align = "center" alt = "Java" height = "40" margin = "50px" width = 40 src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+    
+<h3 align = "center">Bancos de Dados Utilizados    
+<div style = "display: inline_block"><br>
+    <img align = "center" alt = "Postgresql" height = "40" margin = "50px" width = 40 src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align = "center" alt = "Mongodb" height = "40" margin = "50px" width = 40 src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
   
 <h3 align = "center">Redes Sociais
-<div align = "center">
+<div align = "center"><br>
     <a href = "https://instagram.com/_patrick.luan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "https://discordapp.com/users/patrickluan#3029" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href = "mailto:patrickluan2908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
