@@ -23,6 +23,7 @@
   <img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="Redis" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
 </p>
 
 ---
@@ -47,13 +48,12 @@
 #### 💬 Vamos conversar?
 
 <p align="center">
-  Me chama no LinkedIn ou dá uma olhada nos meus repositórios. Vamos trocar ideias!  
+  Me chama no LinkedIn, me manda um e-mail ou dá uma olhada nos meus repositórios. Vamos trocar ideias!
 </p>
 
 <p align="center">
   <a href="mailto:patrickluan2908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/patrickluan298" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/patrickluan#3029" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
